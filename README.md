@@ -42,7 +42,7 @@ But I know how to do much more; I have an Associate Degree in Network Systems Ad
 
 I like opensource software and OS, I use Debian with PlasmaKDE because it's useful and it looks pretty enough I don't have to mess with it too much.
 
-[Send me an email](mgualaa@gmail.com) and tell me about your project, that'll get my attention for sure.
+[Send me an email](mailto:mgualaa@gmail.com) and tell me about your project, that'll get my attention for sure.
 If not, send me one with pictures of cats, or fountain pens; ***that*** will do for sure.
 
 I started coding back in 2009 in pen and paper, so find the missing semicolon was very fun to say the least. I do like learning to code, troubleshooting things are the best thing ever for me. But you know what i love the most? ✨Documentation✨
