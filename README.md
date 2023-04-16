@@ -27,17 +27,14 @@ He trabajado con HTML, CSS, JavaScript, Git, Ruby, Rails y bases de datos relaci
     <img src="docs/vs.png" alt="VS CODE">
 </p>    
 
-But I know how to do much more; I have an Associate Degree in Network Systems Administration and I work freelance! Remotely! *with my own T470 thinkpad!* 
-
 Pero se hacer muchas cosas mas; me gradué de Tecnico Superior en Soporte y Administracion de redes y trabajo freelance! Remotamente! *con mi propio Tinkpad T470.* Eso es grandioso, no?
-
-I like open source software and OS, I use Debian with PlasmaKDE because it's useful and it looks pretty enough I don't have to mess with it too much.
 
 Me gusta el software y el sistema operativo de código abierto, uso Debian con PlasmaKDE porque es útil y se ve lo suficientemente bonito como para no tener que jugar demasiado con él.
 
 Empecé a codificar en 2009 con lápiz y papel, así que encontrar el punto y coma que faltaba fue muy *divertido*, por decir lo menos.
 
-Me gusta aprender a codificar, solucionar problemas es lo mejor para mí. ¿Pero sabes lo que más amo? ✨Documentación✨
+Me gusta escribir codigo y solucionar problemas es lo mejor para mí. 
+¿Pero sabes lo que más amo? ✨La documentación✨
 
 [Envíame un correo electrónico](mailto:mgualaa@gmail.com) y cuéntame sobre tu proyecto, seguro que me llamará la atención.
 Si no, envíame uno con fotos de gatos o plumas estilográficas; *eso* servirá con seguridad.
