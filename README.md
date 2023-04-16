@@ -27,7 +27,7 @@ He trabajado con HTML, CSS, JavaScript, Git, Ruby, Rails y bases de datos relaci
     <img src="docs/vs.png" alt="VS CODE">
 </p>    
 
-Pero se hacer muchas cosas mas; me gradué de Tecnico Superior en Soporte y Administracion de redes y trabajo freelance! Remotamente! *con mi propio Tinkpad T470.* Eso es grandioso, no?
+Pero se hacer muchas cosas mas; me gradué de Tecnico Superior en Administracion y Soporte De Redes y trabajo freelance! Remotamente! *con mi propio Tinkpad T470.* Eso es grandioso, no?
 
 Me gusta el software y el sistema operativo de código abierto, uso Debian con PlasmaKDE porque es útil y se ve lo suficientemente bonito como para no tener que jugar demasiado con él.
 
