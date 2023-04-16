@@ -2,7 +2,7 @@
 
 HI, HELLO
 
-Mi nombre es Issa, soy milenial, chilenx y soy un nerd informtico a quien le gusta tocar el ukelele en su tiempo libre.
+Mi nombre es Issa, soy milenial, chilenx y soy un nerd informatico a quien le gusta tocar el ukelele en su tiempo libre.
 
 Hago sitios web, trabajo como admin de bases de datos Oracle *y los tallarines con salsa me quedan super buenos*
 
