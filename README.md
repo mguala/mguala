@@ -2,60 +2,47 @@
 
 HI, HELLO
 
-I'm Issa, millennial, Chilean, and I'm an IT nerd who likes to play the ukelele on their free time.
+Mi nombre es Issa, soy milenial, chilenx y soy un nerd informtico a quien le gusta tocar el ukelele en su tiempo libre.
 
-I make websites, and a mean roast beef!
+Hago sitios web, trabajo como admin de bases de datos Oracle *y los tallarines con salsa me quedan super buenos*
 
-I completed a full-stack web-development bootcamp in 2021 with SENCE and am seeking to learn more things, because one always can learn more stuff.
+El 2021 completé un bootcamp de desarrollo full-stack con SENCE llamado "Emprendimiento digital con Ruby on Rails", y siempre quiero aprender algo nuevo, porque uno siempre puede aprender algo mas.
 
-I am a creative personality with a passion for the arts, learning and research. I pride myself on being a person who always is very good at doing their job. I do pay attention to details while also thinking outside of the box.
+Actualmente me encuentro cursando un bootcamp de desarrollo de aplicaciones con Python, tambien con SENCE.
 
-I have worked with HTML, CSS, Git, Ruby, Rails, JavaScript, Python, Django, APIs and SQL.
+Soy una persona creativa, me gusta sentarme a programar escuchando musica (en mi playlist conviven Bad Bunny, L'Arc-En-Ciel y Los Jaivas), me gusta aprender cosas nuevas.
+Me enorgullezco de decir que soy una persona a quien siempre le ha gustado hacer su trabajo. Me gusta prestarle atencion a los detalles siempre pensando fuera de la normalidad.
+
+He trabajado con HTML, CSS, JavaScript, Git, Ruby, Rails y bases de datos relacionales (SQL y OracleDB). Desarrollo en VS Code y me gusta mantener un control de versiones en GitHub
 
 <p align="center">
     <img src="docs/git.png" alt="GIT">
     <img src="docs/html.png" alt="HTML">
     <img src="docs/javascript.png" alt="JAVASCRIPT">
     <img src="docs/css.png" alt="CSS">
-    <img src="docs/vs.png" alt="VS CODE">
     <img src="docs/bootstrap.png" alt="BOOTSTRAP">
     <img src="docs/rails.png" alt="RAILS">
     <img src="docs/ruby.png" alt="RUBY">
     <img src="docs/github.png" alt="GITHUB OCTOCAT">
-    <img src="docs/python.png" alt="PYTHON"> <br>
-    <img src="docs/django.png" alt="DJANGO">
-</p>
-
-</p>
-
-I've worked with other technologies too, JIRA was *fun* to learn. I've used OracleDB, Visual Basic 6.0 (yup), .NET and PHP.
-
-<p align="center">
-    <img src="docs/jira.png" alt="JIRA">
-    <img src="docs/oracle.png" alt="OracleDB">
-    <img src="docs/vb6.png" alt="Visual Basic 6.0">
-    <img src="docs/dotNET.png" alt=".NET">
-    <img src="docs/php.jpg" alt="PHP">
+    <img src="docs/vs.png" alt="VS CODE">
 </p>    
 
-But I know how to do much more; I have an Associate Degree in Network Systems Administration and I work freelance! Remotely! *with my own T470 thinkpad!* That's grand, isn't it?
+But I know how to do much more; I have an Associate Degree in Network Systems Administration and I work freelance! Remotely! *with my own T470 thinkpad!* 
 
-I like opensource software and OS, I use Debian with PlasmaKDE because it's useful and it looks pretty enough I don't have to mess with it too much.
+Pero se hacer muchas cosas mas; me gradué de Tecnico Superior en Soporte y Administracion de redes y trabajo freelance! Remotamente! *con mi propio Tinkpad T470.* Eso es grandioso, no?
 
-[Send me an email](mailto:mgualaa@gmail.com) and tell me about your project, that'll get my attention for sure.
-If not, send me one with pictures of cats, or fountain pens; ***that*** will do for sure.
+I like open source software and OS, I use Debian with PlasmaKDE because it's useful and it looks pretty enough I don't have to mess with it too much.
 
-I started coding back in 2009 in pen and paper, so find the missing semicolon was very fun to say the least. I do like learning to code, troubleshooting things are the best thing ever for me. But you know what i love the most? ✨Documentation✨
+Me gusta el software y el sistema operativo de código abierto, uso Debian con PlasmaKDE porque es útil y se ve lo suficientemente bonito como para no tener que jugar demasiado con él.
 
-Feel free to have a look at some of my existing projects:
+Empecé a codificar en 2009 con lápiz y papel, así que encontrar el punto y coma que faltaba fue muy *divertido*, por decir lo menos.
+
+Me gusta aprender a codificar, solucionar problemas es lo mejor para mí. ¿Pero sabes lo que más amo? ✨Documentación✨
+
+[Envíame un correo electrónico](mailto:mgualaa@gmail.com) y cuéntame sobre tu proyecto, seguro que me llamará la atención.
+Si no, envíame uno con fotos de gatos o plumas estilográficas; *** eso *** servirá con seguridad.
+
+Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 [project placeholder] 
 
 ![](https://komarev.com/ghpvc/?username=mguala)
-
-```sh
-
-```
-
-<!--
-To display project linked images in a one row, two column format, generate a table at:
-https://tableconvert.com/
