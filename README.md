@@ -40,7 +40,7 @@ Empecé a codificar en 2009 con lápiz y papel, así que encontrar el punto y co
 Me gusta aprender a codificar, solucionar problemas es lo mejor para mí. ¿Pero sabes lo que más amo? ✨Documentación✨
 
 [Envíame un correo electrónico](mailto:mgualaa@gmail.com) y cuéntame sobre tu proyecto, seguro que me llamará la atención.
-Si no, envíame uno con fotos de gatos o plumas estilográficas; *** eso *** servirá con seguridad.
+Si no, envíame uno con fotos de gatos o plumas estilográficas; *eso* servirá con seguridad.
 
 Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 [project placeholder] 
