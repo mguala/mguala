@@ -40,9 +40,9 @@ Me gusta escribir codigo y solucionar problemas es lo mejor para mí.
 Si no, envíame uno con fotos de gatos o plumas estilográficas; *eso* servirá con seguridad.
 
 Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
-<p align="center">
-[Frontend para el consumo de DigimonAPI](https://mguala.github.io/super-broccoli/)
-![DIGIMON API](projects/DigimonAPI.png)
-</p>
 
-![](https://komarev.com/ghpvc/?username=mguala)
+[Frontend para el consumo de DigimonAPI](https://mguala.github.io/super-broccoli/)
+
+![DIGIMON API](projects/DigimonAPI.png)
+
+![](https://komarev.com/ghpvc/?username=mguala&color=dc143c)
