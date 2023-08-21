@@ -6,9 +6,7 @@ Mi nombre es Issa, soy milenial, chilenx y soy un nerd informatico a quien le gu
 
 Hago sitios web, trabajo como admin de bases de datos Oracle *y los tallarines con salsa me quedan super buenos*
 
-El 2021 completé un bootcamp de desarrollo full-stack con SENCE llamado "Emprendimiento digital con Ruby on Rails", y siempre quiero aprender algo nuevo, porque uno siempre puede aprender algo mas.
-
-Actualmente me encuentro cursando un bootcamp de desarrollo de aplicaciones con Python, tambien con SENCE.
+El 2022 completé un bootcamp de desarrollo full-stack con SENCE llamado "Emprendimiento digital con Ruby on Rails", y siempre quiero aprender algo nuevo, porque uno siempre puede aprender algo mas. En Agosto 2023 de Desarrollo de aplicaciones con Python, tambien con SENCE.
 
 Soy una persona creativa, me gusta sentarme a programar escuchando musica (en mi playlist conviven Bad Bunny, L'Arc-En-Ciel y Los Jaivas), me gusta aprender cosas nuevas.
 Me enorgullezco de decir que soy una persona a quien siempre le ha gustado hacer su trabajo. Me gusta prestarle atencion a los detalles siempre pensando fuera de la normalidad.
@@ -40,6 +38,10 @@ Me gusta escribir codigo y solucionar problemas es lo mejor para mí.
 Si no, envíame uno con fotos de gatos o plumas estilográficas; *eso* servirá con seguridad.
 
 Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
+
+[Frontend para el consumo de DigimonAPI](https://mguala.github.io/super-broccoli/)
+
+![DIGIMON API](projects/DigimonAPI.png)
 
 [Frontend para el consumo de DigimonAPI](https://mguala.github.io/super-broccoli/)
 
