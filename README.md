@@ -43,7 +43,7 @@ Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 
 ![DIGIMON API](projects/DigimonAPI.png)
 
-[Frontend para el consumo de DigimonAPI](https://mguala.github.io/super-broccoli/)
+[dnd Player Character Tracker (WIP)](https://github.com/mguala/fuzzy-pancake)
 
 ![DIGIMON API](projects/DigimonAPI.png)
 
