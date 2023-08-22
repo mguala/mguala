@@ -44,7 +44,7 @@ Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 
 ![DIGIMON API](projects/DigimonAPI.png)
 
-[DnD Player Charater Tracker (WIP)] desarrollado en conjunto con [NovaFugaz](https://github.com/NovaFugaz) (https://mguala.github.io/super-broccoli/)
+[DnD Player Charater Tracker WIP desarrollado en conjunto con [NovaFugaz](https://github.com/NovaFugaz)]([https://mguala.github.io/super-broccoli/](https://github.com/mguala/fuzzy-pancake))
 
 ![DnD Player Charater Tracker (WIP)](projects/dndpct.jpg)
 
