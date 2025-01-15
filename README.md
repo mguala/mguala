@@ -12,7 +12,7 @@ Soy una persona creativa, me gusta sentarme a programar escuchando musica (en mi
 
 Me enorgullezco de decir que soy una persona a quien siempre le ha gustado hacer su trabajo. Me gusta prestarle atencion a los detalles siempre pensando fuera de la normalidad.
 
-He trabajado con HTML, CSS, JavaScript, Git, Ruby, Rails y bases de datos relacionales (SQL y OracleDB). Desarrollo en VS Code y me gusta mantener un control de versiones en GitHub
+He trabajado con HTML, CSS, JavaScript, Git, Ruby, Rails, bases de datos relacionales (SQL y OracleDB) y NoSQL. Desarrollo en VS Code y me gusta mantener un control de versiones en GitHub
 
 <p align="center">
     <img src="docs/git.png" alt="GIT">
@@ -26,17 +26,17 @@ He trabajado con HTML, CSS, JavaScript, Git, Ruby, Rails y bases de datos relaci
     <img src="docs/vs.png" alt="VS CODE">
 </p>    
 
-Pero se hacer muchas cosas mas; me gradué de Tecnico Superior en Administracion y Soporte De Redes y trabajo freelance! Remotamente! *con mi propio Thinkpad T470.* Eso es grandioso, no?
+Pero se hacer muchas cosas mas; me gradué de Tecnico Superior en Administracion y Soporte De Redes y trabajo freelance! Remotamente! *con mi propio Thinkpad T490.*
 
 Me gusta el software y el sistema operativo de código abierto, uso Debian con PlasmaKDE porque es útil y se ve lo suficientemente bonito como para no tener que jugar demasiado con él.
 
-Empecé a codificar en 2009 con lápiz y papel, así que encontrar el punto y coma que faltaba fue muy *divertido*, por decir lo menos.
+Empecé a codificar en 2009 con lápiz y papel, así que encontrar el punto y coma que faltaba fue muy una experiencia formativa.
 
 Me gusta escribir codigo y solucionar problemas es lo mejor para mí. 
 ¿Pero sabes lo que más amo? ✨La documentación✨
 
 [Envíame un correo electrónico](mailto:mgualaa@gmail.com) y cuéntame sobre tu proyecto, seguro que me llamará la atención.
-Si no, envíame uno con fotos de gatos o plumas estilográficas; *eso* servirá con seguridad.
+Si no, envíame uno con fotos de gatos o plumas fuentes; *eso* servirá con seguridad.
 
 Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 
