@@ -31,3 +31,5 @@ Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 La web de la empresa [Ingetest](www.ingetest.cl)
 
 ![Ingetest.cl](projects/ingetest.png)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/mguala/fuzzy-potato)
