@@ -1,4 +1,4 @@
-![Banner](docs/banner.png)
+![Banner](img/banner.png)
 
   
 
@@ -14,15 +14,15 @@ Más me gusta el desarrollar cositas chicas; un robocopy fancy por aquí, un dot
 He trabajado con un montón de cosas, [mirame en linkedin](https://cl.linkedin.com/in/melissa-guala-a309a7210) 😉
 
 Hice un [Frontend para el consumo de la DigimonAPI](https://mguala.github.io/super-broccoli/) el 2023. 
-![DIGIMON API](projects/DigimonAPI.png)
+![DIGIMON API](img/DigimonAPI.png)
 
   
 Con [NovaFugaz](https://github.com/NovaFugaz) el 2023 nos pusimos a desarrollar el [DnD Player Charater Tracker](https://github.com/mguala/fuzzy-pancake) en Django 
-![DnD Player Charater Tracker](projects/dndpct.jpg) tomando como inspo la web de dnd Beyond
+![DnD Player Charater Tracker](img/dndpct.jpg) tomando como inspo la web de dnd Beyond
 
   
 El 2025 reescribí la web de la empresa [Ingetest](http://www.ingetest.cl) desde un proyecto en asp a un sitio en html y está en la world wide web. 
-![Ingetest.cl](projects/ingetest.png)
+![Ingetest.cl](img/ingetest.png)
 
 Estoy super orgullorsx de todo lo que he hecho la verdad. Estoy armando mi portafolio de a poco si, pero [hablemos](mailto:mgualaa@gmail.com) y dime que quieres hacer.
 
