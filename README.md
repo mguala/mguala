@@ -1,10 +1,9 @@
-<img src="docs/banner.png" alt="Banner" style="max-width: 100%; height: auto; display: block;">
+![Banner](docs/banner.png)
 
   
 
 HI, HELLO
  
-
 Mi nombre es Issa, soy milenial, chilenx, tecnico en redes, dev Front-End junior y fotografo amateur los fines de semana.
 
 Hago sitios web, le doy muchos besitos a mis michis, saco fotos muy bonitas y le saqué las rueditas a mi bicicleta.
@@ -26,5 +25,6 @@ El 2025 reescribí la web de la empresa [Ingetest](www.ingetest.cl) desde un pro
 ![Ingetest.cl](projects/ingetest.png)
 
 Estoy super orgullorsx de todo lo que he hecho la verdad. Estoy armando mi portafolio de a poco si, pero [hablemos](mailto:mgualaa@gmail.com) y dime que quieres hacer.
+
 
 ![GitHub followers](https://img.shields.io/github/followers/mguala?label=Follow%20me%20on%20GitHub&style=social)
