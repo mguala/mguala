@@ -21,7 +21,7 @@ Con [NovaFugaz](https://github.com/NovaFugaz) el 2023 nos pusimos a desarrollar 
 ![DnD Player Charater Tracker](projects/dndpct.jpg) tomando como inspo la web de dnd Beyond
 
   
-El 2025 reescribí la web de la empresa [Ingetest](www.ingetest.cl) desde un proyecto en asp a un sitio en html y está en la world wide web. 
+El 2025 reescribí la web de la empresa [Ingetest](http://www.ingetest.cl) desde un proyecto en asp a un sitio en html y está en la world wide web. 
 ![Ingetest.cl](projects/ingetest.png)
 
 Estoy super orgullorsx de todo lo que he hecho la verdad. Estoy armando mi portafolio de a poco si, pero [hablemos](mailto:mgualaa@gmail.com) y dime que quieres hacer.
