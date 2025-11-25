@@ -25,6 +25,6 @@ Con [NovaFugaz](https://github.com/NovaFugaz) el 2023 nos pusimos a desarrollar 
 El 2025 reescribí la web de la empresa [Ingetest](www.ingetest.cl) desde un proyecto en asp a un sitio en html y está en la world wide web. 
 ![Ingetest.cl](projects/ingetest.png)
 
-Estoy super orgullorsx de todo lo que he hecho la verdad. Estoy armando mi portafolio de a poco si, pero [hablemos](mailto:mgualaa@gmail.com) y dime que te tinca hacer.
+Estoy super orgullorsx de todo lo que he hecho la verdad. Estoy armando mi portafolio de a poco si, pero [hablemos](mailto:mgualaa@gmail.com) y dime que quieres hacer.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mguala/fuzzy-potato)
+![GitHub followers](https://img.shields.io/github/followers/mguala?label=Follow%20me%20on%20GitHub&style=social)
