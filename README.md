@@ -20,7 +20,7 @@ Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
 [Frontend para el consumo de DigimonAPI](https://mguala.github.io/super-broccoli/)
 
 
-![DIGIMON API](projects/DigimonAPI.png)
+[DIGIMON API](projects/DigimonAPI.png)
 
   
 [DnD Player Charater Tracker WIP](https://github.com/mguala/fuzzy-pancake) desarrollado en conjunto con [NovaFugaz](https://github.com/NovaFugaz)
@@ -30,6 +30,7 @@ Siéntete libre de echar un vistazo a algunos de mis proyectos existentes:
   
 La web de la empresa [Ingetest](www.ingetest.cl)
 
-![Ingetest.cl](projects/ingetest.png)
+[Ingetest.cl](projects/ingetest.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mguala/fuzzy-potato)
+
