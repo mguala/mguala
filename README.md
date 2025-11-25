@@ -1,4 +1,4 @@
-![Banner](docs/banner.png)
+<img src="docs/banner.png" alt="Banner" style="max-width: 100%; height: auto; display: block;">
 
   
 
