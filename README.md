@@ -8,9 +8,7 @@ Mi nombre es Issa, soy milenial, de Chile, tecnico en redes, dev Front-End junio
 
 Hago sitios web, le doy muchos besitos a mis michis, saco fotos muy bonitas y le saqué las rueditas a mi bicicleta. Ademas de eso me gusta mucho armar modelos a escala.
 
-Me gusta mucho el desarrollo de soluciones para mis clientes. Los escucho de manera atenta y les consulto por sus preferencias antes wue las mias porque no me sirve quedar contento con mi trabajo si al cliente no le sirve, o no es lo que quiere. Igual me gusta desarrollar cositas chicas; un robocopy fancy por aquí, un dot file por allá. 
-
-Por ahi deben estar mis confites de aliases y de mi bashrc.
+Me gusta mucho el desarrollo de soluciones para mis clientes. Los escucho de manera atenta y les consulto por sus preferencias antes que las mias porque no me sirve quedar contento con mi trabajo si al cliente no le sirve, o no es lo que quiere. Igual me gusta desarrollar cositas chicas; un robocopy fancy por aquí, un dot file por allá.  Por ahi deben estar mis confites de aliases y de mi bashrc.
 
 Uso void linux como daily driver, me gusta porque en mi x250 funciona super bien y no tengo problemas de rendimiento.
 
